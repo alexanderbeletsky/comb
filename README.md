@@ -2,14 +2,14 @@
 
 Combinatorics library for Javascript.
 
-# Combinations
+## Combinations
 
 TDB.
 
-# Permutations
+## Permutations
 
 TDB.
 
-# Functions
+## Functions
 
 TDB.
