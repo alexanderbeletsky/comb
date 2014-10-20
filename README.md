@@ -1,6 +1,6 @@
 # comb
 
-Combinatorics library for Javascript.
+Combinatorics library for Javascript. Just for fun.
 
 ## Combinations
 
